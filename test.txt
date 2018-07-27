@@ -5,4 +5,8 @@ bbbbbb
 function () {}
 
 
+
 I am lkc.i am the first branch;I edit this branch:
+
+antother brach edit this file
+>>>>>>> 74e8342aa44ea998d3b5f798d0408fe5079fb34e
